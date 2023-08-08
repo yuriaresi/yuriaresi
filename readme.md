@@ -26,5 +26,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Yuri Aresi](https://img.shields.io/badge/-Yuri&nbsp;Aresi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-aresi-5923ba22a/)](https://www.linkedin.com/in/yuri-aresi-5923ba22a/)
-[![Gmail Badge](https://img.shields.io/badge/-yuri.aresi10@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuri.aresi10@gmail.com)](mailto:yuri.aresi10@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-yuri.aresi10@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuri.aresi10@gmail.com)](mailto:yuri.aresi10@gmail.com)
 [![GitHub Yuri Aresi]( https://img.shields.io/github/followers/yuriaresi?label=follow&style=social)](https://github.com/yuriaresi)
